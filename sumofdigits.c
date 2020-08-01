@@ -13,7 +13,7 @@ int sum_of_digit(int n)
  
 int main() 
 { 
-	int num = 9867; 
+	int num = 1234; 
 	int result = sum_of_digit(num); 
 	printf("Sum of digits in %d is %d\n", num, result); 
 	return 0; 
